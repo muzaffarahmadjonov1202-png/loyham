@@ -5,7 +5,12 @@
 }
 
 body{
-    background-color: darkslateblue;
+
+    background:
+    radial-gradient(circle at top left, #00ffff22, transparent 30%),
+    radial-gradient(circle at bottom right, #ff00ff22, transparent 30%),
+    #050816;
+    color: white;
 }
 
 .header {
